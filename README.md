@@ -1,6 +1,6 @@
 # PoisonReminder for Turtle WoW
 
-Use a macro like this:  
+###Macro exapmle:  
 /run -- CastSpellByName("Sinister Strike")  
 /cast Sinister Strike  
 /script CheckForPoison()  
