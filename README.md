@@ -6,7 +6,7 @@ It's adding in chat and with sound if you are:
 - Low on poison charges.
 - Low on poison time.
 
-## How di I use it ?  
+### How do I use it ?  
 You just add:  
 /script CheckForPoison()  
 to your macro, see example below.
