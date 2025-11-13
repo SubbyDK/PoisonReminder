@@ -14,3 +14,6 @@ You just add following line to your macro:
 > /run -- CastSpellByName("Sinister Strike")  
 > /cast Sinister Strike  
 > /script CheckForPoison()  
+
+### Is there no picture of it ?  
+No, just install and test it.
