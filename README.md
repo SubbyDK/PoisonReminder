@@ -8,10 +8,10 @@ It's adding in chat and with sound if you are:
 
 ### How do I use it ?  
 You just add:  
-/script CheckForPoison()  
+> /script CheckForPoison()  
 to your macro, see example below.
 
 ### Macro example:  
-/run -- CastSpellByName("Sinister Strike")  
-/cast Sinister Strike  
-/script CheckForPoison()  
+> /run -- CastSpellByName("Sinister Strike")  
+> /cast Sinister Strike  
+> /script CheckForPoison()  
