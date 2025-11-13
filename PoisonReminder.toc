@@ -1,0 +1,11 @@
+## Title: PoisonReminder|cFF00FF00 by Subby|r
+## Interface: 11200
+## Author: Subby
+## Version: 1.8
+## DefaultState: enabled
+## Notes: Poison reminder.
+
+## SavedVariables: 
+## SavedVariablesPerCharacter: 
+
+PoisonReminder.lua
